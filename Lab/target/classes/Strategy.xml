@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Student lastname="Familia">
+    <Subject mark="4" title="predmet1"/>
+    <Subject mark="4" title="predmet2"/>
+    <Subject mark="4" title="predmet3"/>
+    <Average>4.0</Average>
+</Student>

@@ -1,0 +1,1 @@
+Stamp transport: Lada. Model: Vesta, price: 760000.0. Model: Granta, price: 600000.0. Model: X-Ray, price: 900000.0. Model: X-Ray1, price: 900000.0. 

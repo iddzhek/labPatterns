@@ -1,0 +1,4 @@
+Brand: Lada, number of models: 3
+Model: 111; Price: 111.0
+Model: 222; Price: 222.0
+Model: 333; Price: 333.0
